@@ -1,0 +1,22 @@
+li {
+    display: inline;
+    float: left;
+    border: 1px solid crimson; ;
+  }
+  a{
+    display: block;
+    padding: 20px;
+    background-color:black
+  }
+ul{
+    margin:0px;
+    padding: 0px;
+    background-color: azure;
+}
+li a{
+    display: block;
+    color: rgb(19, 7, 124);
+    text-align: center;
+    padding: 10px;
+    text-decoration: dashed;
+}
